@@ -1,0 +1,4 @@
+name: EasyCommand
+version: '${version}'
+main: me.lsam.easycommand.EasyCommand
+api-version: '1.20'
